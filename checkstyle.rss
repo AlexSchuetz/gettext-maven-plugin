@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<rss version="0.91">
+  <channel>
+    <title>Maven Gettext Plugin - Checkstyle report</title>
+    <link>https://github.com/AlexSchuetz/gettext-maven-plugin</link>
+    <description>Maven Gettext Plugin - Checkstyle report</description>
+    <language>en-us</language>
+    <copyright>&#169;2005 - 2018</copyright>
+    <item>
+      <title>File: 8,
+             Errors: 196,
+             Warnings: 0,
+             Infos: 0
+      </title>
+            <link>https://github.com/AlexSchuetz/gettext-maven-plugin/checkstyle.html</link>
+      <description>
+        <p>Click <a href="https://github.com/AlexSchuetz/gettext-maven-plugin/checkstyle.html">here</a> for the full Checkstyle report.</p>
+
+        <table summary="Files" boder="1">
+          <thead>
+            <tr>
+              <th>Files</th>
+              <th style="width:30px;"><abbr title="Info">I</abbr></th>
+              <th style="width:30px;"><abbr title="Warning">W</abbr></th>
+              <th style="width:30px;"><abbr title="Error">E</abbr></th>
+            </tr>
+          </thead>
+          <tbody>
+                          <tr>
+                <td>
+                  <a href="https://github.com/AlexSchuetz/gettext-maven-plugin/checkstyle.html#de.fenvariel.maven.gettext.Location.java">de/fenvariel/maven/gettext/Location.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  4
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/AlexSchuetz/gettext-maven-plugin/checkstyle.html#de.fenvariel.maven.gettext.LoggerStreamConsumer.java">de/fenvariel/maven/gettext/LoggerStreamConsumer.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  15
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/AlexSchuetz/gettext-maven-plugin/checkstyle.html#de.fenvariel.maven.gettext.AbstractGettextMojo.java">de/fenvariel/maven/gettext/AbstractGettextMojo.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  16
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/AlexSchuetz/gettext-maven-plugin/checkstyle.html#de.fenvariel.maven.gettext.Sort.java">de/fenvariel/maven/gettext/Sort.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  4
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/AlexSchuetz/gettext-maven-plugin/checkstyle.html#de.fenvariel.maven.gettext.DistMojo.java">de/fenvariel/maven/gettext/DistMojo.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  40
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/AlexSchuetz/gettext-maven-plugin/checkstyle.html#de.fenvariel.maven.gettext.MergeMojo.java">de/fenvariel/maven/gettext/MergeMojo.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  12
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/AlexSchuetz/gettext-maven-plugin/checkstyle.html#de.fenvariel.maven.gettext.ReportMojo.java">de/fenvariel/maven/gettext/ReportMojo.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  59
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/AlexSchuetz/gettext-maven-plugin/checkstyle.html#de.fenvariel.maven.gettext.GettextMojo.java">de/fenvariel/maven/gettext/GettextMojo.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  46
+                </td>
+              </tr>
+                      </tbody>
+        </table>
+        
+      </description>
+    </item>
+  </channel>
+</rss>
+
